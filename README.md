@@ -14,6 +14,9 @@ Pandas
 Os
 Tkinter
 
-ADDITIONAL REQUIREMENT: For this program to run, 'haarcascade_frontalface_default.xml' is required along with the python file of the program which contains the haar cascade features of a face.!
+ADDITIONAL REQUIREMENT: For this program to run, 'haarcascade_frontalface_default.xml' is required along with the python file of the program which contains the haar cascade features of a face.
+
+![image](https://user-images.githubusercontent.com/82457446/170761513-8ddfecc2-0be9-4444-b736-a79a99d5d781.png)
+
 
 
