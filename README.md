@@ -5,7 +5,7 @@ Taking attendance is a necessary but really tedious task especially in big organ
 
 This project makes a CSV file of registered student's information after user registration. For marking attendance, this program utilises the training images dataset which was created during user registration to identify the registered users and mark their ID number, name, time and date of presence in a CSV file. A new CSV file is created each day for marking attendance.
 
-This program is easy to use. For a new user registration, the user has to enter his/her Institute allotted ID number and name of the user. Then the user has to click on take images which will open the webcam of the user's device. This will take several images of the user to train the image dataset. Then select sve profile and registration will be completed. Now for taking attendance, select take attendance and after successful user verification from the image datasets, the ID, name and time of attendance for the user will appear in the Attendance Chart as well as a CSV file will be updates with the same details.
+This program is easy to use. For a new user registration, the user has to enter his/her Institute allotted ID number and name of the user. Then the user has to click on take images which will open the webcam of the user's device. This will take several images of the user to train the image dataset. Then select save profile and registration will be completed. Now for taking attendance, select take attendance and after successful user verification from the image datasets, the ID, name and time of attendance for the user will appear in the Attendance Chart as well as a CSV file will be updated with the same details.
 
 REQUIRED PYTHON LIBRARIES
 OpenCV
